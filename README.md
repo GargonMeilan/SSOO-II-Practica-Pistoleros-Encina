@@ -1,5 +1,5 @@
-# SSOO-II-Practica-Pistoleros-Encina
-Primera practica                          NOTA: 10                          
+# SSOO-II-Practica-Pistoleros-Encina NOTA: 10 
+Primera practica                                                   
 Pistoleros de Wisconsi
 Enunciado.
 Antes de estudiar esta asignatura hubimos de sufrir la falta de medios para comunicar adecuadamente a los procesos entre sí. En esta práctica pondremos remedio a la situación permitiendo usar los nuevos mecanismos IPC recientemente aprendidos. Se tratará de simular el problema del pistolero visto en la segunda práctica de Sistemas Operativos I, con ligeras modificaciones.
